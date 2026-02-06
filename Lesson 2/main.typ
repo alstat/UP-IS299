@@ -21,6 +21,11 @@
   baseline: 40%,
   content,
 )
+= Reminder
+== Purpose of Research
+#align(horizon + center)[#text(size: 20pt)[The purpose of research is to conduct objective investigation and analysis, _not to provide justification for a particular agenda or viewpoint_.]]
+
+
 = Thesis Structure
 == Thesis Chapters
 + Introduction
@@ -46,10 +51,11 @@
   [Appendix], [What supplementary materials support this research?],
 )
 
-= Introduction
-== Introduction Sections
+= Chapter 1
+== Sections of Chapter 1 (Introduction)
 + Background
 + Rationale of the Study
+  - Statement of the Problem
 + Research Questions
 + Objective of the Study
 + Research Hypotheses
@@ -94,4 +100,8 @@
 == Examples of Weak Research Questions
 + Can blockchain be used for Zakat? (It can be answered simply with "yes" or "no," which doesn't allow for deep investigation.)
 + What are the ahadith supporting conservations of water? (Doesn't allow deep analysis, it can be answered easily by simply extracting the ahadith.)
-+
++ What are the key principles governing juvenile delinquency under Shari’ah law and the Philippines legal system? (Foundational, meaning it is already given by these two legal systems)
+
+== Number of Research Questions
+#align(horizon + center)[#text(size: 20pt)[No universal rule, but somewhere between 3-4 for master thesis to be manageable]]
+
